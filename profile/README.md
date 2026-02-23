@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Welcome to **THD-Spatial**.
+# Welcome to **THD-Spatial**.
 
 We are a group working on practical projects in spatial data processing, geoinformatics, energy modelling, and related research/software engineering topics. This organisation hosts repositories for tools, prototypes, research code, documentation, and reusable templates.
 
